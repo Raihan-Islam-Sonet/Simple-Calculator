@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inconsolata', monospace;
+    color: #555;
+}
+body{
+    background:  #616a6b;
+}
+.container{
+    width: 300px;
+    background-color: #f7f9f9;
+    margin: 120px auto;
+}
+table{
+    width: 100%;
+    border: none;
+}
+td{
+    width: 25%;
+}
+button{
+    width: 100%;
+    height: 70px;
+    font-size: 24px;
+    background-color: #fff;
+    border:none;
+    
+}
+#inputLabel{
+    height: 80px;
+    font-size: 40px;
+    vertical-align: bottom;
+    text-align: right;
+    padding-right: 16px;
+    background-color:#eaecee;
+    border: 1px solid  #abb2b9;
+    border-radius: 10px;
+}
